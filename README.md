@@ -1,7 +1,8 @@
 # phone-home
 Placeholder for project
 
-[![CircleCI](https://circleci.com/gh/buzzedword/phone-home.svg?style=svg)](https://circleci.com/gh/buzzedword/phone-home)
+[![CircleCI](https://img.shields.io/circleci/project/github/buzzedword/phone-home.svg)](https://circleci.com/gh/buzzedword/phone-home)
+[![Docker Automated buil](https://img.shields.io/docker/automated/buzzedword/phone-home.svg)](https://hub.docker.com/r/buzzedword/phone-home/)
 
 ## Quick Start
 
