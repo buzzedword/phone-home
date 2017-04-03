@@ -1,6 +1,8 @@
 # phone-home
 Placeholder for project
 
+[![CircleCI](https://circleci.com/gh/buzzedword/phone-home.svg?style=svg)](https://circleci.com/gh/buzzedword/phone-home)
+
 ## Quick Start
 
 **Installation** <br/>
